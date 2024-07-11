@@ -1,0 +1,8 @@
+Flask
+matplotlib==3.8.4
+nltk==3.8.1
+numpy==1.25.1
+scikit-learn==1.2.1
+pandas
+setuptools
+distutils
